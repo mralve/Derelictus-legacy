@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - feet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: tilelayer
+    uniqueID: 1282219751
+    locked: 0
+  - name: spriteground1
+    uniqueID: 3928794853
+    locked: 0
+  - name: spriteground2
+    uniqueID: 3359210619
+    locked: 0
+  - name: spriteground3
+    uniqueID: 2816513079
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: spritesky
+    uniqueID: 2985846797
+    locked: 0

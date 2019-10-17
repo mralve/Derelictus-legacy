@@ -1,0 +1,13 @@
+
+
+
+
+
+
+
+
+
+
+
+// Create UV Data containers to optimize map size
+// uvd [ id ] . uvs = new vector 4()

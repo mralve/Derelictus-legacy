@@ -1,0 +1,86 @@
+ -- Alpha 1 released! 
+
+ -- Alpha 1.5 
+
+x  - Tool dragging bug.
+x  - SpriteIcon disabled bug.
+x  - SpawnPoint Setter offset bug.
+x  - Moved short cuts.
+x  - Add short cuts.
+x  - Fix Sprite Panel.
+x  - Add sprite and tile short cuts.
+x  - Fix so Ui is blocking tool clicks.
+x  - Sprite sorting. to use cunkclusters as offsets
+x  - Fix sprite Preview
+x  - Sprite Remover.
+x  - Editor Camera duplication bug.
+
+-- Alpha 1.7
+
+x  - Fix delete tool on new sprites.
+x  - Sprite sorting group setter.
+
+-- Alpha 1.8
+
+x  - Fix editor shortcuts in xcp manager.
+
+-- Alpha 2.0
+
+x  - Tweaked player animation speeds.
+x  - Fixed xcp menu not updating the map view when loading new XCP.
+x  - Fix XCPManager not reloading map view.
+x  - Fix CameraScrolling in ui.
+x  - Fix CreateXCP icon displaying with the wrong filtering.
+x  - Fix editor camera not spawning, on new map, or reopen map.
+x  - Fix Tile layer index wrongly defaults to sprite layer index.
+x  - Fix grid button.
+x  - Fix TilePen / preview not checking for the current tile texture.
+x  - Fix editor ui not getting destroyed when launching preview.
+x  - Fix editor shortcuts getting disabled. ( ScenePrimer.curEditorPrimer.takesInput = false; seak and destroy if any is left. )
+x  - Upgrade the rendering to support SRP lightweight.
+/  - Fix all broken rendering after upgrade.
+x  - Small upgrades in animation system.
+x  - Clear camera when starting the preview session.
+x  - Fix tile remove tool.
+x  - Fix window sorting bug.
+  - Entities editor.
+  - Animation editor.
+  - Basic entities.
+  - Fix Editor world layer color change not updating.
+  - Basic combat system.
+  - Animated sprites.
+  - Fix Tile layer generation.
+  
+  - Add dubbel clicking to import file in file importer.
+  - Fix editor scrolling inside of subwindows.  
+  - Add auto layer creation when trying to place a tile with non matching texture index.
+
+-- Alpha 3.0
+
+  - Undo.
+  - Bulk import.
+  - Collision editor
+  - Items.
+  - BerryLines.
+  - Basic sprite shadow.
+  - Player shadow sorting bug.
+  - Sprite sorting set tool.
+  - Object placer.
+  - Editor paths saving.
+  - Add folder stars.
+  - Sprite Collisions ( rund Collision )
+  - World Collision placer. ( rund Collision )
+  - Collision based Triggers.
+  - Secondary sprite.
+  - Sprite and tiles folders and tags.
+  - A* algorithm.
+
+
+  - Sprite dynamic Shadows.
+
+  -- idk
+
+  - Fix tilemap generation gaps.
+/  - Add sprite remover highlight.
+/ - Fix Texture setting.
+*  - New Ui colors
